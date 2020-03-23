@@ -1,10 +1,10 @@
 Gazebo Bot:
- Mybot_description
-   1) Launch file
-   2) URDF
+ Mybot_description:
+   1) Launch file:
+   2) URDF:
        1) Mybot.xacro : It contains the bot specific urdf code for a skid steered bot
        2) Mybot.gazebo: It contains the plugins used in the bot simulation on gazebo
- Mybot_gazebo
+ Mybot_gazebo:
     1) Launch File
     2) Gazebo world for the simulation
 Scripts:
