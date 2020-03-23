@@ -1,10 +1,9 @@
 Gazebo_bot:
-<ul>
 1) Mybot.xacro: It contains the bot specific urdf code for a skid steered bot
-2) Mybot.gazebo: It contains the plugins used in the bot simulation on gazebo
-3)Launch File 
-4)Gazebo world for the simulation
-</ul>
+2) Mybot.gazebo: It contains the plugins used in the bot simulation on gazebo\
+3)Launch File\
+4)Gazebo world for the simulation\
+
 Scripts:
  1) GPS Client : When called gives the latitude from Subscriber based on GPS Garmin 18x
  2) GPS Service : Sends Latitude values when called
